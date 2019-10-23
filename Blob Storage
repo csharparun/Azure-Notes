@@ -1,0 +1,21 @@
+Storage account 
+
+Local: Emulator or Azure storage explorer
+
+Blob service:
+ Container - Blob
+
+Block
+Append
+Page
+
+Public access level
+
+Metadata
+Blob state - active, delete
+
+Sas token
+
+ETag - optimistic concurrency
+Lease - pessimistic
+Snapshot
