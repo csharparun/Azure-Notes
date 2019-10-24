@@ -1,0 +1,9 @@
+Table Storage
+  Partition key - to group rows
+  Row key - Primary key
+  Odata Filtering to query the data
+  SAS is similar to blob - Shared Access Signature
+  This is an equalant to Azure Cosoms DB - Table Storage type
+  No SQL type
+  CRUD Operations - this works for Cosoms table and Table storage.
+  
